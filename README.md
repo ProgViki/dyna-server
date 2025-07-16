@@ -1,2 +1,3 @@
-# dyna-vik
-Frontend Application built with React, Tailwind CSS, Ant design, and RTK Query for tracking expenses.
+# dyna-server
+About
+Complete Backend Server-Db with SpringBoot and Java Librariies
